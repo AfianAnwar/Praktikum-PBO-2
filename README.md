@@ -1,5 +1,6 @@
 POST MAPPING
-![POST](img/Tambah Data.png) "Menambah Data Student"
+![TambahData](https://user-images.githubusercontent.com/101179958/159270957-62144199-2b36-48c5-99a4-8424f29b4445.png)
+"Menambah Data Student"
 
 GET MAPPING
 ![GET](img/Tampilkan Data.png) "Menampilkan/Mengambil Semua Data Student"
